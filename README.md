@@ -58,5 +58,5 @@ The dataset contains customer information such as:
 ## Author
 Agalyavengadesan
 
-GitHub: 
-LinkedIn:
+GitHub: https://github.com/Agalya-png
+linkedIn: https://www.linkedin.com/in/agalya-vengadesan-835a93293
